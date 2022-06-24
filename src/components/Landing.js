@@ -21,7 +21,7 @@ Do you have what it takes? Sign up today and put your skills to the test!</Typog
 
             </Grid>
             <Grid item xs={4}>
-                <img src="../assets/CTFimg1.png" alt='img1' xs={{justifyContent: 'bottom'}}/>
+                <img src="../assets/CTFimg1.png" alt='img1' height={325} width={325}/>
             </Grid>
         </Grid>
        

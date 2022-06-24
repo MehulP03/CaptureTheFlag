@@ -10,7 +10,7 @@ function HeaderSearch() {
     const { classes } = useStyles();
 
     return (
-        <Header height={80} className={classes.header} style={{ background: 'linear-gradient(45deg, green, yellow,  blue, red, orange, indigo, violet, red)' }}>
+        <Header height={80} className={classes.header} style={{ background: 'lightgreen' }}>
             <div className={classes.inner}>
                 <Group>
                     <img src="../assets/CTF-logo.png" alt="logo" height={100} width={100} />
